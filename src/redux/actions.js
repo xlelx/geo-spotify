@@ -9,7 +9,7 @@ export const login = code => dispatch => {
   const requestBody = {
     grant_type: 'authorization_code',
     code,
-    redirect_uri: 'http://localhost:3000',
+    redirect_uri: 'https://' + window.location.hostname,
   }
 
   const config = {
