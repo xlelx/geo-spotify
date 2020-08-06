@@ -80,7 +80,7 @@ const CustomButton = () => {
   const requestBody = {
     client_id: CLIENT_ID,
     response_type: 'code',
-    redirect_uri: 'https://'+window.location.hostname + '/geo-spotfy',
+    redirect_uri: 'https://'+window.location.hostname + '/geo-spotify',
     scope: 'streaming user-read-email user-read-private user-library-read user-library-modify user-read-playback-state user-modify-playback-state'
 
   }
