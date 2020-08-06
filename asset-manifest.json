@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/geo-spotify/static/css/main.5f361e03.chunk.css",
-    "main.js": "/geo-spotify/static/js/main.e8d1b2f7.chunk.js",
-    "main.js.map": "/geo-spotify/static/js/main.e8d1b2f7.chunk.js.map",
+    "main.js": "/geo-spotify/static/js/main.85a6d073.chunk.js",
+    "main.js.map": "/geo-spotify/static/js/main.85a6d073.chunk.js.map",
     "runtime-main.js": "/geo-spotify/static/js/runtime-main.3df7ab3e.js",
     "runtime-main.js.map": "/geo-spotify/static/js/runtime-main.3df7ab3e.js.map",
     "static/js/2.0595a8c6.chunk.js": "/geo-spotify/static/js/2.0595a8c6.chunk.js",
     "static/js/2.0595a8c6.chunk.js.map": "/geo-spotify/static/js/2.0595a8c6.chunk.js.map",
     "index.html": "/geo-spotify/index.html",
-    "precache-manifest.88d59df25776601ab460565eff2d612c.js": "/geo-spotify/precache-manifest.88d59df25776601ab460565eff2d612c.js",
+    "precache-manifest.c745f9ddb6c867496cadddcdb536518f.js": "/geo-spotify/precache-manifest.c745f9ddb6c867496cadddcdb536518f.js",
     "service-worker.js": "/geo-spotify/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/geo-spotify/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.0595a8c6.chunk.js.LICENSE.txt": "/geo-spotify/static/js/2.0595a8c6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3df7ab3e.js",
     "static/js/2.0595a8c6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e8d1b2f7.chunk.js"
+    "static/js/main.85a6d073.chunk.js"
   ]
 }
