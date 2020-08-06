@@ -9,7 +9,7 @@ export const login = code => dispatch => {
   const requestBody = {
     grant_type: 'authorization_code',
     code,
-    redirect_uri: 'https://' + window.location.hostname,
+    redirect_uri: 'https://' + window.location.hostname + '/geo-spotify',
   }
 
   const config = {
