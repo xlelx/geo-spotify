@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3ff82cec15861650d7d850a83fa3fd9",
+    "revision": "057c21b7bc48dcca8716d466437a1096",
     "url": "/geo-spotify/index.html"
   },
   {
-    "revision": "a4697b9557fb2cedbc15",
+    "revision": "f917975b92b68f182fb4",
     "url": "/geo-spotify/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/geo-spotify/static/js/2.0595a8c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4697b9557fb2cedbc15",
-    "url": "/geo-spotify/static/js/main.060381cd.chunk.js"
+    "revision": "f917975b92b68f182fb4",
+    "url": "/geo-spotify/static/js/main.e8d1b2f7.chunk.js"
   },
   {
     "revision": "de28cc386e3dc483fda8",
